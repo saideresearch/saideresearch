@@ -1,87 +1,137 @@
-# Hi, I'm Saide Hossain
+# 👋 Hi, I'm Saide Hossain
 
-Full Stack JavaScript Developer building secure, scalable, and production-ready web applications.
+🔐 SOC Platform & Security Engineer
+🌍 Dhaka, Bangladesh
+🌐 https://offsecplatform.com
+📧 saide@offsecplatform.com
 
 ---
 
 ## About Me
 
-I am a Full Stack JavaScript Developer with a strong focus on backend architecture, secure API development, and structured system design. I primarily work in Linux-based environments and build applications with an emphasis on maintainability, security, and clean code practices.
+I am a SOC Platform & Security Engineer focused on designing, deploying, and supporting scalable open-source SOC/MDR infrastructures.
 
-I am continuously improving my skills in software engineering fundamentals, system design, and application security to build reliable and production-grade systems.
+I work hands-on with Wazuh-based SOC environments, detection engineering, log pipeline integration, and structured VAPT engagements aligned with OWASP and modern attack methodologies.
 
----
-
-## Tech Stack
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-- React Router
-- Context API / Redux Toolkit
-- Axios / Fetch API
-
-### Backend
-- Node.js
-- Express.js
-- RESTful API Design
-- JWT-based Authentication
-- Input Validation (Joi / Zod)
-- Password Hashing (bcrypt)
-- Security Middleware (Helmet, Rate Limiting)
-
-### Database
-- MongoDB (Mongoose)
-- PostgreSQL
-
-### DevOps & Infrastructure
-- Git & GitHub
-- Docker
-- Nginx
-- Linux Server Management
-- Environment Configuration
-- Basic CI/CD Workflows
-
-### Testing
-- Jest
-- Supertest (API Testing)
+My goal is to build secure, detection-driven environments that balance defensive monitoring with offensive security validation.
 
 ---
 
-## Engineering Focus
+## SOC Platform Engineering
 
-- Designing secure authentication and authorization systems
-- Building structured and scalable API architectures
-- Implementing proper validation and error-handling strategies
-- Applying security best practices in web applications
-- Deploying applications in production environments
+### 🔹 SOC Stack Deployment
 
----
+- Wazuh Manager configuration & agent enrollment
+- OpenSearch index patterns & dashboards
+- TheHive case management workflows
+- Cortex integration
 
-## Current Focus
+### 🔹 Log Pipeline & Integration
 
-- Strengthening backend engineering depth
-- Improving system design knowledge
-- Advancing PostgreSQL and database optimization skills
-- Expanding TypeScript usage in production applications
-- Building SaaS-style production projects
+- Firewall, endpoint & Linux server log onboarding
+- Cloud log integration
+- Log parsing validation & ingestion troubleshooting
+- SIEM pipeline configuration
 
----
+### 🔹 System Optimization
 
-## Featured Projects
-
-
-
----
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/saide-hossain-00918b3b1/
-- Email: saide@offsecplatform.com
-- Portfolio: https://offsecplatform.com
+- Performance tuning & alert noise reduction
+- Detection coverage validation
+- Log retention & backup configuration
+- SOC platform stability improvements
 
 ---
 
-> Building secure and scalable web systems with JavaScript.
+## SOC Operations & Detection
+
+### 🔹 Incident Monitoring
+
+- Real-time alert triage
+- IOC validation & enrichment
+- Structured incident documentation
+- Escalation handling
+
+### 🔹 Detection Engineering Support
+
+- MITRE ATT&CK-mapped rule tuning
+- False positive reduction
+- Endpoint & cloud monitoring improvements
+
+### 🔹 Automation & Threat Intelligence
+
+- Investigation workflow automation
+- Threat intelligence feed integration
+- Detection enrichment support
+
+---
+
+## Penetration Testing & Security Assessment
+
+### 🔹 Web & API Security Testing
+
+- OWASP Top 10 testing
+- Injection & authentication bypass testing
+- IDOR / BOLA validation
+- Session management testing
+- Burp Suite-based structured testing
+
+### 🔹 Infrastructure & Network Review
+
+- Firewall rule analysis
+- Network segmentation validation
+- Misconfiguration detection
+- Exposure assessment
+
+### 🔹 Cloud Security Review
+
+- AWS IAM policy review
+- S3 exposure analysis
+- Security group validation
+- Least-privilege assessment
+
+---
+
+## Tools & Technologies
+
+- Wazuh
+- OpenSearch
+- TheHive
+- Cortex
+- Burp Suite
+- Linux
+- AWS
+- MITRE ATT&CK
+- OWASP Top 10
+
+---
+
+## OffSecPlatform
+
+Founder of **Offensive Security Platform (OffSecPlatform)**
+A platform focused on SOC operations, VAPT, and open-source security infrastructure.
+
+Visit: https://offsecplatform.com
+
+---
+
+## Open to Opportunities
+
+Available for:
+
+- SOC Platform Deployment
+- Security Operations Roles
+- Detection Engineering
+- VAPT Engagements
+
+---
+
+## Connect With Me
+
+- 🌐 Website: https://offsecplatform.com
+- 💼 LinkedIn: https://linkedin.com/in/saide-soc
+- 💻 GitHub: https://github.com/offsecboy
+- 📧 Email: saide@offsecplatform.com
+
+---
+
+> Building scalable detection-driven security infrastructures.
