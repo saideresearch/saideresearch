@@ -1,137 +1,77 @@
 # 👋 Hi, I'm Saide Hossain
 
-🔐 SOC Platform & Security Engineer
-🌍 Dhaka, Bangladesh
-🌐 https://offsecplatform.com
-📧 saide@offsecplatform.com
+🌌 Aspiring Computational Physicist  
+🌍 Panchagarh, Bangladesh  
+🌐 [offsecplatform.com](https://offsecplatform.com)  
+📧 saide@offsecplatform.com  
 
 ---
 
 ## About Me
 
-I am a SOC Platform & Security Engineer focused on designing, deploying, and supporting scalable open-source SOC/MDR infrastructures.
+I am a Physics graduate building expertise in **Computational Physics, scientific computing, and space research**.  
+I am actively learning **Python programming, numerical methods, simulation modeling, and machine learning** to apply computational approaches to physical systems.  
 
-I work hands-on with Wazuh-based SOC environments, detection engineering, log pipeline integration, and structured VAPT engagements aligned with OWASP and modern attack methodologies.
+Currently, I am building **projects and hands-on experience** in data analysis, numerical simulations, and physics-based modeling.  
 
-My goal is to build secure, detection-driven environments that balance defensive monitoring with offensive security validation.
-
----
-
-## SOC Platform Engineering
-
-### 🔹 SOC Stack Deployment
-
-- Wazuh Manager configuration & agent enrollment
-- OpenSearch index patterns & dashboards
-- TheHive case management workflows
-- Cortex integration
-
-### 🔹 Log Pipeline & Integration
-
-- Firewall, endpoint & Linux server log onboarding
-- Cloud log integration
-- Log parsing validation & ingestion troubleshooting
-- SIEM pipeline configuration
-
-### 🔹 System Optimization
-
-- Performance tuning & alert noise reduction
-- Detection coverage validation
-- Log retention & backup configuration
-- SOC platform stability improvements
+My long-term goal is to pursue a **research-focused MSc and PhD in Computational Physics** and contribute to **space research, astrophysical simulations, and data-driven scientific projects**.
 
 ---
 
-## SOC Operations & Detection
+## Projects
 
-### 🔹 Incident Monitoring
+### 🔹 Orbital Mechanics Simulation
+- Developed Python-based simulations for planetary orbits using Newtonian physics and numerical integration methods  
+- Visualized orbit trajectories and gravitational interactions  
 
-- Real-time alert triage
-- IOC validation & enrichment
-- Structured incident documentation
-- Escalation handling
+### 🔹 Monte Carlo Physics Simulation
+- Implemented Monte Carlo techniques to model probabilistic physical processes  
+- Analyzed statistical outcomes and uncertainty in simulations  
 
-### 🔹 Detection Engineering Support
+### 🔹 Heat & Wave Equation Solver
+- Built finite difference solvers for 1D/2D heat and wave equations  
+- Visualized dynamic results using Matplotlib and animated plots  
 
-- MITRE ATT&CK-mapped rule tuning
-- False positive reduction
-- Endpoint & cloud monitoring improvements
-
-### 🔹 Automation & Threat Intelligence
-
-- Investigation workflow automation
-- Threat intelligence feed integration
-- Detection enrichment support
+### 🔹 Other Projects
+- Numerical solutions for differential equations  
+- Data-driven analysis of astrophysical datasets  
+- Simulation of classical and quantum mechanical systems  
 
 ---
 
-## Penetration Testing & Security Assessment
+## Skills
 
-### 🔹 Web & API Security Testing
-
-- OWASP Top 10 testing
-- Injection & authentication bypass testing
-- IDOR / BOLA validation
-- Session management testing
-- Burp Suite-based structured testing
-
-### 🔹 Infrastructure & Network Review
-
-- Firewall rule analysis
-- Network segmentation validation
-- Misconfiguration detection
-- Exposure assessment
-
-### 🔹 Cloud Security Review
-
-- AWS IAM policy review
-- S3 exposure analysis
-- Security group validation
-- Least-privilege assessment
+- **Programming & Tools:** Python, NumPy, SciPy, Matplotlib, Pandas, Jupyter Notebook, Git, Linux  
+- **Physics & Math:** Classical Mechanics, Electrodynamics, Quantum Mechanics, Differential Equations, Numerical Methods  
+- **Data Science:** Data Analysis, Visualization, Machine Learning, Simulation Modeling  
+- **Other:** Scientific Writing, Research, Project Documentation  
 
 ---
 
-## Tools & Technologies
+## Education
 
-- Wazuh
-- OpenSearch
-- TheHive
-- Cortex
-- Burp Suite
-- Linux
-- AWS
-- MITRE ATT&CK
-- OWASP Top 10
+- **BSc in Physics (National University)** – Expected 2024  
+- **HSC, Science** – Ziaur Rahman College, Panchagarh  
+- **SSC, Science** – Harivasha Darussunnah Dakhil Madrasha, Panchagarh  
 
 ---
 
-## OffSecPlatform
+## Current Focus
 
-Founder of **Offensive Security Platform (OffSecPlatform)**
-A platform focused on SOC operations, VAPT, and open-source security infrastructure.
-
-Visit: https://offsecplatform.com
-
----
-
-## Open to Opportunities
-
-Available for:
-
-- SOC Platform Deployment
-- Security Operations Roles
-- Detection Engineering
-- VAPT Engagements
+- Building a portfolio of computational physics projects  
+- Learning advanced numerical methods & simulation techniques  
+- Exploring **astrophysics simulations and space research applications**  
+- Developing proficiency in machine learning for physical system modeling  
 
 ---
 
 ## Connect With Me
 
-- 🌐 Website: https://offsecplatform.com
-- 💼 LinkedIn: https://linkedin.com/in/saide-soc
-- 💻 GitHub: https://github.com/offsecboy
-- 📧 Email: saide@offsecplatform.com
+- 🌐 Website: [offsecplatform.com](https://offsecplatform.com)  
+- 💼 LinkedIn: [linkedin.com/in/saide-hossain](https://linkedin.com/in/saide-hossain)  
+- 💻 GitHub: [github.com/saideresearch](https://github.com/saideresearch)  
+- 📧 Email: saide@offsecplatform.com  
 
 ---
 
-> Building scalable detection-driven security infrastructures.
+> "Exploring the universe, one simulation at a time."
